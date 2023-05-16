@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\design register\design register\bin\Debug\design register.exe.config
+C:\Users\asus\source\repos\design register\design register\bin\Debug\design register.exe
+C:\Users\asus\source\repos\design register\design register\bin\Debug\design register.pdb
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design register.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design register.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design_register.Form1.resources
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design_register.Properties.Resources.resources
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design register.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design register.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design register.exe
+C:\Users\asus\source\repos\design register\design register\obj\Debug\design register.pdb
