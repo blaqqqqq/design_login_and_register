@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\desaign 1\desaign 1\bin\Debug\desaign 1.exe.config
+C:\Users\asus\source\repos\desaign 1\desaign 1\bin\Debug\desaign 1.exe
+C:\Users\asus\source\repos\desaign 1\desaign 1\bin\Debug\desaign 1.pdb
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign 1.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign_1.Form1.resources
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign_1.Properties.Resources.resources
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign 1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign 1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign 1.exe
+C:\Users\asus\source\repos\desaign 1\desaign 1\obj\Debug\desaign 1.pdb
